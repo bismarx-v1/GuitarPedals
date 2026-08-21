@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "faa16d3c-d922-463e-b2f7-d27a19584fcc")
+	(paper "A4")
+	(title_block
+		(title "looper-v1")
+		(date "2026-08-21")
+		(rev "v1")
+		(company "bismarx")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
